@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<graphPointsCountX>10</graphPointsCountX>
+	<graphPointsCountY>10</graphPointsCountY>
+	<objectsCount>4</objectsCount>
+	<offsetX>128.0</offsetX>
+	<offsetY>128.0</offsetY>
+	<offsetZ>128.0</offsetZ>
+	<objectVelocity>150.0</objectVelocity>
+</root>
